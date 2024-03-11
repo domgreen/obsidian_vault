@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0f9eda428fc8ecc0",
+        "id": "a3ffd80196119295",
         "type": "tabs",
         "children": [
           {
-            "id": "a5074481d6638998",
+            "id": "2b8f9fcae42759d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linkedin/imposter_syndrome.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#apple",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/imposter_syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/imposter_syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,12 +118,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "linkedin/imposter_syndrome.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -143,18 +136,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5074481d6638998",
+  "active": "2b8f9fcae42759d9",
   "lastOpenFiles": [
+    "20240311.md",
+    "TestCanvas.canvas",
+    "work/job_search/job_applications.md",
+    "Excalidraw/Design A System/20240311YouTube.md",
+    "work/job_search/questions.md",
+    "work/job_search/20240311 alphasenseInitalCall.md",
+    "Excalidraw/Design A System",
+    "work/job_search/20240214 epicRecruiterCall.md",
+    "daily/2024/03",
+    "daily/2024",
+    "daily",
     "linkedin/imposter_syndrome.md",
+    "Excalidraw/Drawing 2024-03-11 13.45.55.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-11 13.45.56.excalidraw.md",
+    "Excalidraw",
     "img/Pasted image 20240311095547.png",
     "img",
-    "Untitled.canvas",
     "Untitled 1.canvas",
-    "2024-03-11.md",
-    "work/job_search/job_applications.md",
     "2024-03-10.md",
     "Work/Searching/Test.md",
     "Welcome.md",
@@ -163,7 +168,6 @@
     "Work/Netspeak/test.md",
     "tools/meteor",
     "tools",
-    "Work/Netspeak",
-    "Work"
+    "Work/Netspeak"
   ]
 }
