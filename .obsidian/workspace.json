@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a3ffd80196119295",
+        "id": "9f3a445c91e67d1d",
         "type": "tabs",
         "children": [
           {
-            "id": "2b8f9fcae42759d9",
+            "id": "f462cc73b28222de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024/03/20240312.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3c27100b4d22d97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20240313.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac26b07e2f33fb77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/job_search/job_applications.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/job_search/job_applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/job_search/job_applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +109,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -149,13 +118,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "work/job_search/job_applications.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,28 +139,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac26b07e2f33fb77",
+  "active": "f462cc73b28222de",
   "lastOpenFiles": [
+    "Daily/2024/03/20240312.md",
     "20240313.md",
-    "work/job_search/20240313CompanionGroup.md",
-    "work/job_search/20240313WiseInterview.md",
-    "work/job_search/20240313EpicRecruiterCall.md",
-    "work/job_search/job_applications.md",
-    "daily/2024/03/20240312.md",
-    "Untitled 1.canvas",
-    "TestCanvas.canvas",
+    "Social/LinkedIn/ImposterSyndrome.md",
+    "20240312.md",
+    "Social",
     "Untitled.canvas",
-    "linkedin/imposter_syndrome.md",
-    "daily/2024/03/20240311.md",
+    "TestCanvas.canvas",
+    "Work/JobSearch/job_applications.md",
+    "Work/JobSearch/20240313_CompanionGroup_InitialCall.md",
+    "Social/LegionOfDoom/Python Hello World.md",
+    "Social/LegionOfDoom",
+    "Untitled 1.canvas",
+    "Work/JobSearch/20240313_Wise_Interview.md",
+    "Work/JobSearch/20240313_Epic_RecruiterCall.md",
+    "Daily/2024/03/20240311.md",
     "Excalidraw/Design A System/20240311YouTube.md",
-    "work/job_search/questions.md",
+    "Work/JobSearch/questions.md",
     "20240311.md",
-    "work/job_search/20240311 alphasenseInitalCall.md",
+    "Work/JobSearch/20240311_Alphasense_InitalCall.md",
     "Excalidraw/Design A System",
-    "work/job_search/20240214 epicRecruiterCall.md",
-    "daily/2024/03",
-    "daily/2024",
-    "daily",
+    "Work/JobSearch/20240214_Epic_RecruiterCall.md",
+    "Daily/2024/03",
+    "Daily/2024",
+    "Daily",
     "Excalidraw/Drawing 2024-03-11 13.45.55.excalidraw.md",
     "Excalidraw/Drawing 2024-03-11 13.45.56.excalidraw.md",
     "Excalidraw",
@@ -205,8 +176,6 @@
     "Work/Searching",
     "Test123.md",
     "Work/Netspeak/test.md",
-    "tools/meteor",
-    "tools",
-    "Work/Netspeak"
+    "tools/meteor"
   ]
 }
