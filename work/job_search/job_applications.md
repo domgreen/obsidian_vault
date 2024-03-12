@@ -36,7 +36,6 @@ tags: []
 - [Software Engineer](https://www.metacareers.com/profile/home) #meta
 - [Engineering Lead - Connect](https://www.wise.jobs/role/5662198-engineering-lead-connect/) #wise
 - [[20240311 alphasenseInitalCall]] #alphasense 
-
 ### Rejected
 
 - [Backend Engineer](https://boards.greenhouse.io/monzo/jobs/5272421) - #monzo

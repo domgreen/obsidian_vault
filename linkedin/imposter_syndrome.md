@@ -1,10 +1,10 @@
 ---
 id: imposter_syndrome
-aliases: []
+aliases: 
 tags:
   - ImposterSyndrome
-  - TheTradeDesk
-  - linked_in
+  - TTD
+  - LinkedIn
 ---
 
 This past few weeks I've been hit hard by imposter syndrome!

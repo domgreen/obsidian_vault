@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20240312.md",
+                "file": "daily/2024/03/20240312.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3c27100b4d22d97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20240313.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac26b07e2f33fb77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/job_search/job_applications.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#apple",
+                "query": "tag:#palantir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20240312.md",
+                "file": "work/job_search/job_applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20240312.md",
+                "file": "work/job_search/job_applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +150,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20240312.md"
+                "file": "work/job_search/job_applications.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,28 +172,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b8f9fcae42759d9",
+  "active": "ac26b07e2f33fb77",
   "lastOpenFiles": [
-    "daily/2024/03/20240311.md",
-    "20240311.md",
-    "20240312.md",
-    "TestCanvas.canvas",
+    "20240313.md",
+    "work/job_search/20240313CompanionGroup.md",
+    "work/job_search/20240313WiseInterview.md",
+    "work/job_search/20240313EpicRecruiterCall.md",
     "work/job_search/job_applications.md",
+    "daily/2024/03/20240312.md",
+    "Untitled 1.canvas",
+    "TestCanvas.canvas",
+    "Untitled.canvas",
+    "linkedin/imposter_syndrome.md",
+    "daily/2024/03/20240311.md",
     "Excalidraw/Design A System/20240311YouTube.md",
     "work/job_search/questions.md",
+    "20240311.md",
     "work/job_search/20240311 alphasenseInitalCall.md",
     "Excalidraw/Design A System",
     "work/job_search/20240214 epicRecruiterCall.md",
     "daily/2024/03",
     "daily/2024",
     "daily",
-    "linkedin/imposter_syndrome.md",
     "Excalidraw/Drawing 2024-03-11 13.45.55.excalidraw.md",
     "Excalidraw/Drawing 2024-03-11 13.45.56.excalidraw.md",
     "Excalidraw",
     "img/Pasted image 20240311095547.png",
     "img",
-    "Untitled 1.canvas",
     "2024-03-10.md",
     "Work/Searching/Test.md",
     "Welcome.md",
