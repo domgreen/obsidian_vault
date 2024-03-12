@@ -14,8 +14,6 @@ tags: []
 
 ### TODO
 
-#huggingface https://apply.workable.com/huggingface/j/5EC160CEFB/  https://apply.workable.com/huggingface/j/DF17557C57/ 
-
 ### Applied
 
 - [Reliability Engineer, Research Platform](https://openai.com/careers/reliability-engineer-research-platform) #openai
@@ -30,6 +28,7 @@ tags: []
 - [Cloud SRE, Cloud and System](https://careers.tiktok.com/position/7270255214413121853/detail) #tiktok
 - [Software Engineer, Infrastructure](https://jobs.bytedance.com/en/position/6954028779976100109/detail) #bytedance #tiktok
 - [Backend Software Engineer](https://jobs.lever.co/palantir/f70cdff7-c62f-4b73-a136-909e5e3d1891) #palantir
+- [SRE](https://apply.workable.com/huggingface/j/5EC160CEFB/) #hugging_face
 
 ### Interviewing
 
