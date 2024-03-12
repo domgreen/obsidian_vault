@@ -30,13 +30,14 @@ tags: []
 - [Cloud SRE, Cloud and System](https://careers.tiktok.com/position/7270255214413121853/detail) #tiktok
 - [Software Engineer, Infrastructure](https://jobs.bytedance.com/en/position/6954028779976100109/detail) #bytedance #tiktok
 - [Backend Software Engineer](https://jobs.lever.co/palantir/f70cdff7-c62f-4b73-a136-909e5e3d1891) #palantir
-- [Software Engineer](https://jobs.lever.co/Anthropic/9ba1d7b4-5b21-4ac9-86f3-875a15c8a091) #anthropic
+
 ### Interviewing
 
-- [Senior Platform Engineer](https://www.epicgames.com/site/en-US/careers/jobs/5045471004?lang=en-US)  [[20240214 epicRecruiterCall]] #epic
+- [Senior Platform Engineer](https://www.epicgames.com/site/en-US/careers/jobs/5045471004?lang=en-US) #epic
 - [Software Engineer](https://www.metacareers.com/profile/home) #meta
 - [Engineering Lead - Connect](https://www.wise.jobs/role/5662198-engineering-lead-connect/) #wise
-- [Director of Engineering - Cloud Platform](https://boards.greenhouse.io/alphasense/jobs/7191858002)  [[20240311 alphasenseInitalCall]] #alphasense 
+- [[20240311 alphasenseInitalCall]] #alphasense 
+
 ### Rejected
 
 - [Backend Engineer](https://boards.greenhouse.io/monzo/jobs/5272421) - #monzo

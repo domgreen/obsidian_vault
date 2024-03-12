@@ -4,6 +4,7 @@ aliases: []
 tags:
   - ImposterSyndrome
   - TheTradeDesk
+  - linked_in
 ---
 
 This past few weeks I've been hit hard by imposter syndrome!
