@@ -32,12 +32,20 @@ tags: []
 
 ### Interviewing
 
-- [Senior Platform Engineer](https://www.epicgames.com/site/en-US/careers/jobs/5045471004?lang=en-US) #epic
+- [Senior Platform Engineer](https://www.epicgames.com/site/en-US/careers/jobs/5045471004?lang=en-US) #epic 
+	- [[20240214_Epic_RecruiterCall]]
+	- [[20240313_Epic_RecruiterCall]]
 - [Software Engineer](https://www.metacareers.com/profile/home) #meta
-- [Engineering Lead - Connect](https://www.wise.jobs/role/5662198-engineering-lead-connect/) #wise
+- [Engineering Lead - Connect](https://www.wise.jobs/role/5662198-engineering-lead-connect/) #wise 
+	- [[20240313_Wise_Interview]]
 - [[20240311_Alphasense_InitalCall]] #alphasense 
+	- [[20240311_Alphasense_InitalCall]]
+	- [[20240314_Alphasense_Yuri]]
 ### Rejected
 
 - [Backend Engineer](https://boards.greenhouse.io/monzo/jobs/5272421) - #monzo
+- #github 
 
 ### Expired
+
+#companionGroup [[20240313_CompanionGroup_InitialCall]]
