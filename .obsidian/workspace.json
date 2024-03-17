@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20240314.md",
+                "file": "Daily/2024/03/20240314.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +23,8 @@
             "id": "bc4091d5ed494dde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20240314.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -37,14 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/JobSearch/questions.md",
+                "file": "Daily/2024/03/20240316.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/JobSearch/questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/JobSearch/questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Work/JobSearch/questions.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -173,12 +165,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b68ef56ccb5eebb2",
+  "active": "bc4091d5ed494dde",
   "lastOpenFiles": [
-    "20240315.md",
-    "20240314.md",
-    "Work/JobSearch/job_applications.md",
+    "20240317.md",
+    "Daily/2024/03/20240316.md",
+    "20240318.md",
+    "Daily/2024/03/20240315.md",
+    "Daily/2024/03/20240314.md",
+    "Social/LegionOfDoom/Python Hello World.md",
+    "Social/LinkedIn/Preparing for Coding Interviews.md",
+    "Excalidraw/Design A System/20240313Tinder.excalidraw.md",
+    "Excalidraw/Design A System/20240313Messenger.excalidraw.md",
+    "Excalidraw/Design A System/20240311YouTube.md",
+    "Social/LinkedIn/LinkedIn.md",
     "Work/JobSearch/questions.md",
+    "Work/JobSearch/job_applications.md",
     "Work/JobSearch/Wise/20240314_Wise_DesignASystem.md",
     "Work/JobSearch/Wise/20240314_UnicornPayments.excalidraw.md",
     "Work/JobSearch/Wise/Screenshot 2024-03-14 at 16.40.32.png",
@@ -190,23 +191,14 @@
     "Work/JobSearch/Epic/20240318_Epic_call1_culture.md",
     "Work/JobSearch/Epic/20240318_Epic_call3_system_design.md",
     "Work/JobSearch/Wise/20240313_Wise_Interview.md",
-    "Excalidraw/Design A System/20240313Messenger.excalidraw.md",
-    "Excalidraw/Design A System/20240311YouTube.md",
     "Work/JobSearch/AlphaSense/20240314_Alphasense_Yuri.md",
     "Work/JobSearch/AlphaSense/20240311_Alphasense_InitalCall.md",
     "Daily/2024/03/20240311.md",
     "Work/JobSearch/AlphaSense/AlphaSense.md",
-    "Work/JobSearch/Wise/Wise.md",
-    "Work/JobSearch/Misc/20240313_CompanionGroup_InitialCall.md",
     "Work/JobSearch/Misc",
     "Work/JobSearch/Wise",
-    "Work/JobSearch/Epic/Epic.md",
     "Work/JobSearch/AlphaSense",
-    "Work/JobSearch/Epic/20240318_Epic_call4_leadership.md",
     "Work/JobSearch/Epic",
-    "Work/JobSearch/Epic/20240318_Epic_call2_app_design.md",
-    "Social/LegionOfDoom/Python Hello World.md",
-    "Social/LinkedIn/ImposterSyndrome.md",
     "Untitled.canvas",
     "Social",
     "TestCanvas.canvas",
