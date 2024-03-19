@@ -83,7 +83,7 @@ I learned that part of collaboration with a group of different people is all abo
 #improbable training the new china team … Playwright an in house configuration tool
 
 
-# Growing Others
+## Growing Others
 
 - Dan as Platform Lead
   - Do myself out of a job
