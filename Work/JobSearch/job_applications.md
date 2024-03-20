@@ -20,6 +20,8 @@ tags: []
 ### Applied
 
 - [Senior Infrastructure Operations Engineer, Sovereign Operations](https://www.google.com/about/careers/applications/jobs/results/99043585782883014-senior-infrastructure-operations-engineer-sovereign-operations?location=London%2C%20UK&q=%22Engineer%22) #google
+- [Software Engineer II, Site Reliability Engineering, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/135837819055547078-software-engineer-ii-site-reliability-engineering-google-cloud?location=London,+UK&q=%22Engineer%22) #google 
+- [Senior Software Engineer - Operational Excellence](https://boards.greenhouse.io/samsara/jobs/5692786?gh_jid=5692786&gh_src=78a986131us) #samsara
 
 ### Interviewing
 

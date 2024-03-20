@@ -30,4 +30,4 @@ Realise that “interview questions” and day to day engineering is different
 Enjoy that I’m relearning concepts I’ve not looked at for a long time
 Look back at my career and what I’ve achieved (and failed at) is due to hard work and not just a fluke
 
-![[Pasted image 20240311095547.png]]
+![[img/Pasted image 20240311095547.png]]

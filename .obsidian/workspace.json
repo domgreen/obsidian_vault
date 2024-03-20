@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20240319.md",
+                "file": "20240321.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20240319.md",
+                "file": "20240321.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20240319.md",
+                "file": "20240321.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20240319.md"
+                "file": "20240321.md"
               }
             }
           },
@@ -158,20 +158,27 @@
   },
   "active": "3d9be5e1b071051d",
   "lastOpenFiles": [
+    "20240320.md",
+    "20240321.md",
     "Work/JobSearch/job_applications.md",
-    "20240319.md",
+    "Daily/2024/03/20240319.md",
+    "Social/LinkedIn/ImposterSyndrome.md",
+    "Social/LinkedIn/img",
+    "Work/JobSearch/Epic/Epic.md",
+    "Work/JobSearch/Epic/Possible Questions.md",
+    "Social/LinkedIn/img/koboldschool.jpeg",
+    "Social/LinkedIn/LinkedIn.md",
+    "Social/LinkedIn/Preparing for Coding Interviews.md",
     "Work/JobSearch/Epic/20240319_Epic_Recruiter_WrapUp.md",
+    "Work/JobSearch/Epic/20240318_Epic_call4_leadership.md",
     "Daily/2024/03/20240318.md",
     "Work/JobSearch/Epic/20240318_design_a_system.excalidraw.md",
     "Work/JobSearch/Wise/Screenshot 2024-03-14 at 16.40.32.png",
     "Work/JobSearch/Wise/Screenshot 2024-03-14 at 16.41.04.png",
     "Work/JobSearch/Epic/20240318_application_design.excalidraw.md",
-    "Work/JobSearch/Epic/20240318_Epic_call4_leadership.md",
     "Work/JobSearch/Epic/20240318_Epic_call3_system_design.md",
     "Work/JobSearch/Epic/20240318_Epic_call2_app_design.md",
     "Work/JobSearch/Epic/20240318_Epic_call1_culture.md",
-    "Work/JobSearch/Epic/Possible Questions.md",
-    "Work/JobSearch/Epic/Epic.md",
     "Work/JobSearch/questions.md",
     "Social/LegionOfDoom/Python Hello World.md",
     "Social/LegionOfDoom/Legion Of Doom.md",
@@ -182,11 +189,6 @@
     "Daily/2024/03/20240314.md",
     "Daily/2024/03/20240315.md",
     "Daily/2024/03/20240316.md",
-    "Daily/2024/03/20240317.md",
-    "Daily/2024/03/20240311.md",
-    "Daily/2024/03/20240312.md",
-    "Daily/2024/03/20240313.md",
-    "Work/JobSearch/Epic/20240313_Epic_RecruiterCall.md",
     "Work/JobSearch/Misc",
     "Work/JobSearch/Wise",
     "Work/JobSearch/AlphaSense",
@@ -198,7 +200,6 @@
     "Untitled 1.canvas",
     "Excalidraw/Design A System",
     "Daily/2024/03",
-    "Daily/2024",
-    "img/Pasted image 20240311095547.png"
+    "Social/LinkedIn/img/Pasted image 20240311095547.png"
   ]
 }
