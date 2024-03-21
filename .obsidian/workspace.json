@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20240321.md",
+                "file": "Social/LinkedIn/LinkedIn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20240321.md",
+                "file": "Social/LinkedIn/LinkedIn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20240321.md",
+                "file": "Social/LinkedIn/LinkedIn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20240321.md"
+                "file": "Social/LinkedIn/LinkedIn.md"
               }
             }
           },
@@ -158,9 +158,12 @@
   },
   "active": "3d9be5e1b071051d",
   "lastOpenFiles": [
-    "20240320.md",
-    "20240321.md",
+    "Social/LinkedIn/System Design Interviews.md",
     "Work/JobSearch/job_applications.md",
+    "Work/JobSearch/AlphaSense/Director_of_Engineering_-_Cloud_Platform_-_interview_preparation__.pdf",
+    "Work/JobSearch/AlphaSense/20240326_Alphasense_Technical.md",
+    "20240321.md",
+    "Daily/2024/03/20240320.md",
     "Daily/2024/03/20240319.md",
     "Social/LinkedIn/ImposterSyndrome.md",
     "Social/LinkedIn/img",
@@ -187,8 +190,6 @@
     "Work/JobSearch/Meta/Meta.md",
     "Work/JobSearch/Meta",
     "Daily/2024/03/20240314.md",
-    "Daily/2024/03/20240315.md",
-    "Daily/2024/03/20240316.md",
     "Work/JobSearch/Misc",
     "Work/JobSearch/Wise",
     "Work/JobSearch/AlphaSense",
@@ -199,7 +200,6 @@
     "Social/LegionOfDoom",
     "Untitled 1.canvas",
     "Excalidraw/Design A System",
-    "Daily/2024/03",
     "Social/LinkedIn/img/Pasted image 20240311095547.png"
   ]
 }

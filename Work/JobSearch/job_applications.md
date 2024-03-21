@@ -25,6 +25,7 @@ tags: []
 
 ### Interviewing
 
+- [Software Engineer (Backend & Data processing)](https://boards.greenhouse.io/xai/jobs/4276949007) #xai
 - [Senior Platform Engineer](https://www.epicgames.com/site/en-US/careers/jobs/5045471004?lang=en-US) #epic 
 	- [[Epic/Epic|Epic]]
 - [Software Engineer](https://www.metacareers.com/profile/home) #meta
