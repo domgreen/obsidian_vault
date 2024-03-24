@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🧠",
       "4️⃣",
       "3️⃣",
       "🎲",
-      "FabMeta",
-      "💰"
+      "FabMeta"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,6 @@
   "Work/JobSearch/Meta": "FabMeta",
   "Work/JobSearch/Misc": "🎲",
   "Daily/2024/03": "3️⃣",
-  "Daily/2024/04": "4️⃣"
+  "Daily/2024/04": "4️⃣",
+  "Work/JobSearch/xAI": "🧠"
 }

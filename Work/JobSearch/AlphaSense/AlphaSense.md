@@ -1,2 +1,4 @@
 - [[20240311_Alphasense_InitalCall]]
 - [[20240314_Alphasense_Yuri]]
+- [[20240326_Alphasense_Technical]]
+- [[Director_of_Engineering_-_Cloud_Platform_-_interview_preparation__.pdf]]
