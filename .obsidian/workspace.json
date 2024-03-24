@@ -11,8 +11,12 @@
             "id": "fb9ea48c0fa005be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "20240324.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20240324.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20240324.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20240324.md"
+              }
             }
           },
           {
@@ -150,7 +158,11 @@
   },
   "active": "fb9ea48c0fa005be",
   "lastOpenFiles": [
-    "20240321.md",
+    "Daily/2024/04",
+    "20240324.md",
+    "Daily/2024/03/20240323.md",
+    "Daily/2024/03/20240322.md",
+    "Daily/2024/03/20240321.md",
     "Social/LinkedIn/System Design Interviews.md",
     "Work/JobSearch/job_applications.md",
     "Work/JobSearch/AlphaSense/Director_of_Engineering_-_Cloud_Platform_-_interview_preparation__.pdf",
@@ -177,11 +189,7 @@
     "Work/JobSearch/questions.md",
     "Social/LegionOfDoom/Python Hello World.md",
     "Social/LegionOfDoom/Legion Of Doom.md",
-    "Work/JobSearch/Meta/Recruiter Call IC.md",
-    "Work/JobSearch/Meta/Recruiter Call EM.md",
-    "Work/JobSearch/Meta/Meta.md",
     "Work/JobSearch/Meta",
-    "Daily/2024/03/20240314.md",
     "Work/JobSearch/Misc",
     "Work/JobSearch/Wise",
     "Work/JobSearch/AlphaSense",
